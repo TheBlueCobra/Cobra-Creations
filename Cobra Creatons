@@ -1,6 +1,7 @@
 /my-app
   └── public
       └── index.html
-<p>My scratch account <a href="https://scratch.mit.edu/users/The_Blue_Cobra">The_Blue_Cobra</a>.</p>
-<p>My chess account account <a href="https://ww.chess.com/members/The_Blue_Cobra">The_Blue_Cobra</a>.</p>
-<p>My Github account <a href="https://github.com/TheBlueCobra">The_Blue_Cobra</a>.</p>
+<h1>Welcome to my official github page, Cobra Creations<h1>
+<p>My scratch account <a href="https://scratch.mit.edu/users/The_Blue_Cobra">https://scratch.mit.edu/users/The_Blue_Cobra/</a>.</p>
+<p>My chess account account <a href="https://ww.chess.com/members/The_Blue_Cobra">https://www.chess.com/member/the_blue_cobra</a>.</p>
+<p>My Github account <a href="https://github.com/TheBlueCobra">https://github.com/TheBlueCobra</a>.</p>
